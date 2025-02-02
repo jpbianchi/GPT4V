@@ -3,6 +3,10 @@
   <img src="images/NO LIMITS logo.png" width="300px"/>
 </p>
 
+<p align="center">
+  <img src="images/Result 2nd place.webp" width="300px"/>
+</p>
+
 Repo for the Lablab.ai [multimodal hackaton Nov 2023](https://lablab.ai/event/multimodal-hackathon)
 See the app @ [gpt4v-demo.streamlit.app](https://gpt4v-demo.streamlit.app/)
 
